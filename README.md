@@ -16,7 +16,7 @@
 
 ###
 
-<img align="right" height="300" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"  />
+<img align="right" height="300" src="https://github.com/vishal065/vishal065/blob/main/dev-working_rounded.gif?raw=true"  />
 
 ###
 
@@ -26,13 +26,13 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 👨‍💻 All of my projects are available at [Resume](https://main--vishal06-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://main--vishal06-portfolio.netlify.app/)
 
 - 💬 Ask me about **React,Node**
 
 - 📫 How to reach me **dasvishal60@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XVJCK3BfE9wTB4v5zWgYuYQUjXmuc3l8/view](https://drive.google.com/file/d/1XVJCK3BfE9wTB4v5zWgYuYQUjXmuc3l8/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XVJCK3BfE9wTB4v5zWgYuYQUjXmuc3l8/view)
 
 ###
 
@@ -41,11 +41,22 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="42" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="62" height="42" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="42" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="42" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="62" height="42" alt="discord logo"  />
+ <a href="mailto:dasvishal60@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="42" alt="gmail logo" />
+</a>
+<a href="https://github.com/vishal065" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="62" height="42" alt="github logo" />
+</a>
+<a href="https://linkedin.com/in/das-vishal-615b1b193/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="42" alt="linkedin logo" />
+</a>
+<a href="https://twitter.com/CodeWithVishal6" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="62" height="42" alt="twitter logo" />
+</a>
+<a href="https://instagram.com/codewithvishal06" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="42" alt="instagram logo" />
+</a>
+
 </div>
 
 ###
