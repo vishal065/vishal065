@@ -16,7 +16,7 @@
 
 ###
 
-<img align="right" height="300" src="https://github.com/vishal065/vishal065/blob/main/dev-working_rounded.gif?raw=true"  />
+<img align="right" height="280" src="https://github.com/vishal065/vishal065/blob/main/dev-working_rounded.gif?raw=true"  />
 
 ###
 
