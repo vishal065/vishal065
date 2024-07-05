@@ -41,16 +41,16 @@
 ###
 
 <div align="left">
- <a href="mailto:dasvishal60@gmail.com" target="_blank">
+ <a href="mailto:dasvishal60@gmail.com" target="_blank"   rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="42" alt="gmail logo" />
 </a>
-<a href="https://linkedin.com/in/das-vishal-615b1b193/" target="_blank">
+<a href="https://linkedin.com/in/das-vishal-615b1b193/" target="_blank"  rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="42" alt="linkedin logo" />
 </a>
-<a href="https://twitter.com/CodeWithVishal6" target="_blank">
+<a href="https://twitter.com/CodeWithVishal6" target="_blank"  rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="62" height="42" alt="twitter logo" />
 </a>
-<a href="https://instagram.com/codewithvishal06" target="_blank">
+<a href="https://instagram.com/codewithvishal06" target="_blank"  rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="42" alt="instagram logo" />
 </a>
 
